@@ -19,9 +19,8 @@
 
 /* Import Design Styles */
 /* The import will only work when the media is a screen, and not something like a printer */
-@media only screen {
-    @import url("wc_designs.css");
-}
+@import url("wc_designs.css");
+
 
 /* Flex Layout Styles */
 /* The entire body is a flexbox, that will be a row that wraps when there is not enough room*/
